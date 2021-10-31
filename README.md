@@ -3,7 +3,7 @@
 
 ### About
 
-The aim of this project is to make you code a function that returns a line,
+The aim of this project is function that returns a line,
 read from a file descriptor.
 
 * Calling get_next_line() in a loop will then allow you to read the text
